@@ -1,0 +1,58 @@
+{
+    "daftar_iphone_stok": [
+        {
+            "id": 1,
+            "model": "IPhone 13",
+            "harga_per_hari": 100000,
+            "tersedia": true,
+            "kelengkapan": "Box, Charger",
+            "stok": 1
+        },
+        {
+            "id": 2,
+            "model": "IPhone 13",
+            "harga_per_hari": 100000,
+            "tersedia": false,
+            "kelengkapan": "Box, Charger",
+            "stok": 1
+        },
+        {
+            "id": 3,
+            "model": "IPhone 13",
+            "harga_per_hari": 100000,
+            "tersedia": true,
+            "kelengkapan": "Box, Charger",
+            "stok": 1
+        },
+        {
+            "id": 4,
+            "model": "IPhone 13",
+            "harga_per_hari": 100000,
+            "tersedia": true,
+            "kelengkapan": "Box, Charger",
+            "stok": 1
+        }
+    ],
+    "daftar_sewaan_pelanggan": [
+        {
+            "nama_pelanggan": "RAVA AJI UTOMO",
+            "nomor_ktp": "3508052301070005",
+            "id_iphone": 1,
+            "tanggal_mulai_sewa": "2025-12-05 06:31:52.243087",
+            "jumlah_hari": 1,
+            "total_harga": 100000.0,
+            "tanggal_kembali": "2025-12-05 23:21:24.280864",
+            "denda": 0.0
+        },
+        {
+            "nama_pelanggan": "RAVA AJI UTOMO",
+            "nomor_ktp": "3508052301070005",
+            "id_iphone": 2,
+            "tanggal_mulai_sewa": "2025-12-05 23:19:43.434213",
+            "jumlah_hari": 1,
+            "total_harga": 100000,
+            "tanggal_kembali": null,
+            "denda": 0
+        }
+    ]
+}
